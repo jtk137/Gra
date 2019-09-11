@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monolitycznie", "Monolitycznie\Monolitycznie.csproj", "{11D29024-4B35-4060-A4A9-594D8B727543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D29024-4B35-4060-A4A9-594D8B727543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D29024-4B35-4060-A4A9-594D8B727543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D29024-4B35-4060-A4A9-594D8B727543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D29024-4B35-4060-A4A9-594D8B727543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA6989A-91F9-448B-90C6-3AE94D6EB4D0}
+	EndGlobalSection
+EndGlobal
